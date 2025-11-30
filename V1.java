@@ -38,7 +38,7 @@ public class V1 {
             int n = input.nextInt();
             //(User enter again if n>15 or n<1 until 1<=n<=15)
             while (n>15 || n<1){
-                System.out.print("Enter multiplier seed:");
+                System.out.print("Enter charm length:");
                 n = input.nextInt();
             }
             
